@@ -3,3 +3,10 @@ h1{color:red;}
 p{color: yellow;}
 body{background:gray;}
 strong{color#OOOOff;}
+
+
+
+.titulo {color: blue; font-size:80px}
+.subtitulo {color: red; font-size:30px}
+body {background: gray;}
+strong {color:#00FF00;}
